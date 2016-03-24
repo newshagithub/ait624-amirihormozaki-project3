@@ -58,7 +58,7 @@ public class VendingMachineItemTest {
 
 	}
 	
-	/** tests VendingMachineItem Constructor for an empty item */
+	/** tests getPrice() */
 	@Test
 	public void getPrice() {
 		
